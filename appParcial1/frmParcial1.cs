@@ -11,7 +11,7 @@ using libOpe;
 
 namespace appParcial1
 {
-    public partial class frmParcial1 : Form
+    public partial class frmParcial1 : Form 
     {
         public frmParcial1()
         {
