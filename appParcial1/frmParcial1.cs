@@ -16,7 +16,7 @@ namespace appParcial1
         public frmParcial1()
         {
             InitializeComponent();
-        }
+        } 
 
         #region Methots propios
         private void Mensaje(string texto)
